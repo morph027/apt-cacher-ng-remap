@@ -1,75 +1,77 @@
 ##
 ## taken from /usr/share/mint-mirrors/linuxmint.list (package mint-mirrors)
 ##
+## grep -vE '^#' /usr/share/mint-mirrors/linuxmint.list
+## 
 ## acng.conf:
 ## Remap-linuxmint: file:linuxmint_mirrors
 ##
-http://mirror.is.co.za/mirrors/linuxmint.com/packages/
-http://mirror.ufs.ac.za/linuxmint-packages/
-http://mirrors.cqu.edu.cn/linuxmint/
-http://run.hit.edu.cn/linuxmint/
-http://mirrors.hustunique.com/linuxmint/
-http://mirrors.ustc.edu.cn/linuxmint/
-http://mirror.unlockforus.com/linuxmint/packages/
-http://mirrors.zju.edu.cn/linuxmint/
-http://repo.ukdw.ac.id/linuxmint/
-http://jaran.undip.ac.id/linuxmint/
-http://ftp.jaist.ac.jp/pub/Linux/linuxmint/packages/
-http://ftp.kaist.ac.kr/linuxmint/
-http://mirror.neolabs.kz/linuxmint/packages/
-http://mirror.rise.ph/linuxmint/packages/
-http://free.nchc.org.tw/linuxmint/packages/
-http://ftp.tku.edu.tw/Linux/LinuxMint/linuxmint/
-http://ftp.yzu.edu.tw/Linux/linuxmint/packages/
-http://mirror.aarnet.edu.au/pub/linuxmint-packages/
-http://mirror.internode.on.net/pub/linuxmint-packages/
-http://mirror.rackcentral.com.au/linuxmint-packages/
-http://mirror.lagoon.nc/pub/linuxmint-packages/
-http://ucmirror.canterbury.ac.nz/linux/mint/packages/
-http://mirrors.uni-ruse.bg/linuxmint/packages/
-http://ftp.mgts.by/pub/linuxmint/packages/
-http://mirror.vutbr.cz/linuxmint/packages/
-http://mirrors.nic.cz/linuxmint-packages/
-http://ucho.ignum.cz/linuxmint/
-http://mirror.karneval.cz/pub/linux/linuxmint/packages/
-http://ftp.fau.de/mint/packages/
-http://linux-mint.froonix.org/
-http://ftp-stud.hs-esslingen.de/pub/Mirrors/packages.linuxmint.com/
-http://linuxmintpkg.efemef.ovh/
-http://mint-mirror.gwendallebihan.net/packages/
-http://mirrors.ircam.fr/pub/linuxmint/
-http://mirror6.layerjet.com/linuxmint/packages/
-http://www.mirrorservice.org/sites/packages.linuxmint.com/packages/
-http://mirror.greennet.gl/linuxmint/packages/
-http://ftp.otenet.gr/linux/linuxmint-packages/
-http://ftp.cc.uoc.gr/mirrors/linux/linuxmint/packages/
-http://mirror.unlockforus.com/linuxmint/packages/
-http://ftp.nluug.nl/os/Linux/distr/linuxmint/packages/
-http://ftp.icm.edu.pl/pub/Linux/dist/linuxmint/packages/
-http://piotrkosoft.net/pub/mirrors/linuxmint/packages/
-http://mirrors.fe.up.pt/linuxmint-packages/
-http://mirrors.netix.net/LinuxMint/linuxmint-repo/
-http://mirrors.serverhost.ro/mint/packages/
-http://mirror.pmf.kg.ac.rs/mint/packages.linuxmint.com/
-http://mirror.2rz.ru/linuxmint/packages/
-http://ftp.acc.umu.se/mirror/linuxmint.com/packages/
-http://ftp.energotel.sk/pub/linux/mint/packages/
-http://linuxmint-packages.ip-connect.vn.ua/
-http://mirror.csclub.uwaterloo.ca/linuxmint-packages/
-http://packages.linuxmint.com/
-http://mirrors.advancedhosters.com/linuxmint/packages/
-http://mirrors.jessevictors.com/packages/linuxmint/
-http://mirror.jmu.edu/pub/linuxmint/packages/
-http://mirrors.kernel.org/linuxmint-packages/
-http://mirror.nexcess.net/linuxmint/packages/
-http://mirror.os6.org/linuxmint.com/packages/
-http://linuxmint.mirrors.pair.com/packages/
-http://mirror.team-cymru.org/mint-packages/
-http://reflection.oss.ou.edu/linuxmint/repos/
-http://mirror.unlockforus.com/linuxmint/packages/
-http://mirrors.usinternet.com/mint/packages/
-http://mirrors.xmission.com/linuxmint/
-http://mintpackages.xfree.com.ar/
-http://mint-packages.c3sl.ufpr.br/
-http://mirror.cedia.org.ec/linuxmint-packages/
-http://mirror.uta.edu.ec/linuxmint-packages/
+http://mirror.is.co.za/mirrors/linuxmint.com/packages/ Internet Solutions
+http://mirror.ufs.ac.za/linuxmint-packages/ University of Free State
+http://mirrors.cqu.edu.cn/linuxmint/ ChongQing University
+http://run.hit.edu.cn/linuxmint/ Harbin Institute of Technology
+http://mirrors.hustunique.com/linuxmint/ Qiming College of Huazhong University of Science and Technology
+http://mirrors.ustc.edu.cn/linuxmint/ University of Science and Technology of China Linux User Group
+http://mirror.unlockforus.com/linuxmint/packages/ Unlockforus Asia
+http://mirrors.zju.edu.cn/linuxmint/ Zhejiang University
+http://repo.ukdw.ac.id/linuxmint/ Duta Wacana Christian University
+http://jaran.undip.ac.id/linuxmint/ Jaran.undip
+http://ftp.jaist.ac.jp/pub/Linux/linuxmint/packages/ JAIST
+http://ftp.kaist.ac.kr/linuxmint/ KAIST
+http://mirror.neolabs.kz/linuxmint/packages/ Neolabs
+http://mirror.rise.ph/linuxmint/packages/ RISE
+http://free.nchc.org.tw/linuxmint/packages/ NCHC
+http://ftp.tku.edu.tw/Linux/LinuxMint/linuxmint/ TamKang University
+http://ftp.yzu.edu.tw/Linux/linuxmint/packages/ Yuan Ze University, Department of Computer Science and Engineering
+http://mirror.aarnet.edu.au/pub/linuxmint-packages/ AARNet
+http://mirror.internode.on.net/pub/linuxmint-packages/ Internode
+http://mirror.rackcentral.com.au/linuxmint-packages/ RackCentral
+http://mirror.lagoon.nc/pub/linuxmint-packages/ OFFRATEL LAGOON
+http://ucmirror.canterbury.ac.nz/linux/mint/packages/ University of Canterbury
+http://mirrors.uni-ruse.bg/linuxmint/packages/ University of Ruse
+http://ftp.mgts.by/pub/linuxmint/packages/ ByFly
+http://mirror.vutbr.cz/linuxmint/packages/ Brno University of Technology
+http://mirrors.nic.cz/linuxmint-packages/ CZ.NIC
+http://ucho.ignum.cz/linuxmint/ Ignum, s.r.o.
+http://mirror.karneval.cz/pub/linux/linuxmint/packages/ UPC Ceska republika
+http://ftp.fau.de/mint/packages/ Friedrich-Alexander-University of Erlangen-Nuremberg
+http://linux-mint.froonix.org/ Froonix Network
+http://ftp-stud.hs-esslingen.de/pub/Mirrors/packages.linuxmint.com/ Hochschule Esslingen University of Applied Sciences
+http://linuxmintpkg.efemef.ovh/ efemef.ovh
+http://mint-mirror.gwendallebihan.net/packages/ Gwendal Le Bihan
+http://mirrors.ircam.fr/pub/linuxmint/ IRCAM
+http://mirror6.layerjet.com/linuxmint/packages/ LayerJet Solutions Open Source Mirror Service
+http://www.mirrorservice.org/sites/packages.linuxmint.com/packages/ University of Kent UK Mirror Service
+http://mirror.greennet.gl/linuxmint/packages/ Tele Greenland
+http://ftp.otenet.gr/linux/linuxmint-packages/ Hellenic Telecommunications Organization
+http://ftp.cc.uoc.gr/mirrors/linux/linuxmint/packages/ University of Crete
+http://mirror.unlockforus.com/linuxmint/packages/ Unlockforus Europe
+http://ftp.nluug.nl/os/Linux/distr/linuxmint/packages/ NLUUG
+http://ftp.icm.edu.pl/pub/Linux/dist/linuxmint/packages/ ICM - University of Warsaw
+http://piotrkosoft.net/pub/mirrors/linuxmint/packages/ Piotrkosoft
+http://mirrors.fe.up.pt/linuxmint-packages/ Universidade do Porto
+http://mirrors.netix.net/LinuxMint/linuxmint-repo/ Netix Ltd
+http://mirrors.serverhost.ro/mint/packages/ ServerHost
+http://mirror.pmf.kg.ac.rs/mint/packages.linuxmint.com/ University of Kragujevac
+http://mirror.2rz.ru/linuxmint/packages/ 2rz.ru
+http://ftp.acc.umu.se/mirror/linuxmint.com/packages/ Academic Computer Club, Umea University
+http://ftp.energotel.sk/pub/linux/mint/packages/ Energotel
+http://linuxmint-packages.ip-connect.vn.ua/ IP-Connect LLC
+http://mirror.csclub.uwaterloo.ca/linuxmint-packages/ University of Waterloo Computer Science Club
+http://packages.linuxmint.com/ Linux Mint
+http://mirrors.advancedhosters.com/linuxmint/packages/ advancedhosters.com
+http://mirrors.jessevictors.com/packages/linuxmint/ Department of CS at Utah State University
+http://mirror.jmu.edu/pub/linuxmint/packages/ James Madison University
+http://mirrors.kernel.org/linuxmint-packages/ kernel.org
+http://mirror.nexcess.net/linuxmint/packages/ Nexcess
+http://mirror.os6.org/linuxmint.com/packages/ os6.org
+http://linuxmint.mirrors.pair.com/packages/ pair Networks
+http://mirror.team-cymru.org/mint-packages/ Team Cymru
+http://reflection.oss.ou.edu/linuxmint/repos/ University of Oklahoma
+http://mirror.unlockforus.com/linuxmint/packages/ Unlockforus USA
+http://mirrors.usinternet.com/mint/packages/ US Internet
+http://mirrors.xmission.com/linuxmint/ XMission Internet
+http://mintpackages.xfree.com.ar/ Xfree
+http://mint-packages.c3sl.ufpr.br/ Universidade Federal do Parana
+http://mirror.cedia.org.ec/linuxmint-packages/ CEDIA
+http://mirror.uta.edu.ec/linuxmint-packages/ CEDIA Ecuador
